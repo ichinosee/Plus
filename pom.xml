@@ -7,8 +7,7 @@
   <name>Plus</name>
   <description>Plus</description>
 
-  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
+  
   <build>
     <plugins>
       <plugin>
